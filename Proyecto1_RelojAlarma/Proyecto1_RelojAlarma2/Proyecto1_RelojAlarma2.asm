@@ -1,10 +1,11 @@
-; Universidad del Valle de Guatemala ; IE2023: Programación de Microcontroladores
+; Universidad del Valle de Guatemala 
+; IE2023: Programación de Microcontroladores
 ; Proyecto1_RelojAlarma.asm
 ; Autor: Diego Duarte 22426
 ; Proyecto: Proyecto 1
 ; Hardware: ATMEGA328P
 ; Creado: 14/02/2024
-; Última modificación: 14/02/2024
+; Última modificación: 14/03/2024
 
 ;EL REGISTRO MODE CONTIENE 4 BANDERAS CORRESPONDIENTES A LOS 4 DIFERENTES MODOS
 ;EN TODO MOMENTO, SOLO UNA DE LAS CUATRO BANDERAS PERMANECE ENCENDIDA
