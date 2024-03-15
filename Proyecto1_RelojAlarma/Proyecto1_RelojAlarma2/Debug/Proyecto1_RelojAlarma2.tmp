@@ -1,0 +1,239 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Debug\Proyecto1_RelojAlarma2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Proyecto1_RelojAlarma2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Proyecto1_RelojAlarma2.map</FILE>
+  <FILE>Proyecto1_RelojAlarma2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>56</LINE></MAIN>
+  <ISR_PCINT1><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1459</LINE></ISR_PCINT1>
+  <ISR_TIMER2_OVF><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1415</LINE></ISR_TIMER2_OVF>
+  <ISR_TIMER0_OVF><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1436</LINE></ISR_TIMER0_OVF>
+  <SETUP><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>62</LINE></SETUP>
+  <INITIALIZE_TIMER0><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1397</LINE></INITIALIZE_TIMER0>
+  <INITIALIZE_TIMER2><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1406</LINE></INITIALIZE_TIMER2>
+  <INITIALIZE_TIME><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1353</LINE></INITIALIZE_TIME>
+  <LOOP><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>101</LINE></LOOP>
+  <MODO_CONFIGURACION><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>377</LINE></MODO_CONFIGURACION>
+  <HA_PASADO_SEGUNDO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>107</LINE></HA_PASADO_SEGUNDO>
+  <IGNORAR_SUMA_SEGUNDO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>345</LINE></IGNORAR_SUMA_SEGUNDO>
+  <HA_PASADO_MINUTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>114</LINE></HA_PASADO_MINUTO>
+  <NO_HA_PASADO_MINUTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>343</LINE></NO_HA_PASADO_MINUTO>
+  <HA_PASADO_10_MINUTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>124</LINE></HA_PASADO_10_MINUTO>
+  <NO_HA_PASADO_10_MINUTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>339</LINE></NO_HA_PASADO_10_MINUTO>
+  <HA_PASADO_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>132</LINE></HA_PASADO_HORA>
+  <NO_HA_PASADO_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>335</LINE></NO_HA_PASADO_HORA>
+  <HA_PASADO_DIA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>144</LINE></HA_PASADO_DIA>
+  <NO_HA_PASADO_DIA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>320</LINE></NO_HA_PASADO_DIA>
+  <ES_MES_REGULAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>198</LINE></ES_MES_REGULAR>
+  <ES_FEBRERO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>179</LINE></ES_FEBRERO>
+  <ES_MES_IRREGULAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>194</LINE></ES_MES_IRREGULAR>
+  <NO_ES_BISIESTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>189</LINE></NO_ES_BISIESTO>
+  <ES_BISIESTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>184</LINE></ES_BISIESTO>
+  <HA_PASADO_MES><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>202</LINE></HA_PASADO_MES>
+  <NO_HA_PASADO_MES><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>303</LINE></NO_HA_PASADO_MES>
+  <HA_PASADO_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>215</LINE></HA_PASADO_YEAR>
+  <NO_HA_PASADO_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>286</LINE></NO_HA_PASADO_YEAR>
+  <NO_CAMBIAR_BISIESTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>228</LINE></NO_CAMBIAR_BISIESTO>
+  <CAMBIAR_BISIESTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>226</LINE></CAMBIAR_BISIESTO>
+  <HA_PASADO_10_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>237</LINE></HA_PASADO_10_YEAR>
+  <NO_HA_PASADO_10_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>282</LINE></NO_HA_PASADO_10_YEAR>
+  <HA_PASADO_100_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>245</LINE></HA_PASADO_100_YEAR>
+  <NO_HA_PASADO_100_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>278</LINE></NO_HA_PASADO_100_YEAR>
+  <NO_HA_PASADO_1000_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>274</LINE></NO_HA_PASADO_1000_YEAR>
+  <HA_PASADO_1000_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>256</LINE></HA_PASADO_1000_YEAR>
+  <NO_HA_PASADO_10000_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>270</LINE></NO_HA_PASADO_10000_YEAR>
+  <HA_PASADO_10000_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>263</LINE></HA_PASADO_10000_YEAR>
+  <NO_HA_PASADO_10_MES><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>299</LINE></NO_HA_PASADO_10_MES>
+  <HA_PASADO_10_MES><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>291</LINE></HA_PASADO_10_MES>
+  <NO_HA_PASADO_10_DIA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>316</LINE></NO_HA_PASADO_10_DIA>
+  <HA_PASADO_10_DIA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>308</LINE></HA_PASADO_10_DIA>
+  <NO_HA_PASADO_10_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>331</LINE></NO_HA_PASADO_10_HORA>
+  <HA_PASADO_10_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>323</LINE></HA_PASADO_10_HORA>
+  <VERIFICAR_ALARMA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>352</LINE></VERIFICAR_ALARMA>
+  <COMPARAR_HORAS><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>356</LINE></COMPARAR_HORAS>
+  <MUESTREO_DISPLAYS><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1137</LINE></MUESTREO_DISPLAYS>
+  <COMPARAR_MINUTOS><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>362</LINE></COMPARAR_MINUTOS>
+  <ACTIVAR_ALARMA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>368</LINE></ACTIVAR_ALARMA>
+  <CONFIG_HORA_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>386</LINE></CONFIG_HORA_MIN>
+  <CONFIG_FECHA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>533</LINE></CONFIG_FECHA>
+  <CONFIG_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>849</LINE></CONFIG_YEAR>
+  <CONFIG_ALARMA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>989</LINE></CONFIG_ALARMA>
+  <CONFIG_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>462</LINE></CONFIG_MIN>
+  <CONFIG_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>391</LINE></CONFIG_HORA>
+  <INCREMENTAR_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>397</LINE></INCREMENTAR_HORA>
+  <DECREMENTAR_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>429</LINE></DECREMENTAR_HORA>
+  <HORA_DE_24_A_0><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>405</LINE></HORA_DE_24_A_0>
+  <HORA_NO_DE_24_A_0><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>412</LINE></HORA_NO_DE_24_A_0>
+  <AUMENTO_DECENA_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>417</LINE></AUMENTO_DECENA_HORA>
+  <NO_AUMENTO_DECENA_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>425</LINE></NO_AUMENTO_DECENA_HORA>
+  <HORA_DE_0_A_23><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>437</LINE></HORA_DE_0_A_23>
+  <HORA_NO_DE_0_A_23><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>445</LINE></HORA_NO_DE_0_A_23>
+  <REDUCCION_DECENA_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>450</LINE></REDUCCION_DECENA_HORA>
+  <NO_REDUCCION_DECENA_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>458</LINE></NO_REDUCCION_DECENA_HORA>
+  <INCREMENTAR_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>468</LINE></INCREMENTAR_MIN>
+  <DECREMENTAR_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>500</LINE></DECREMENTAR_MIN>
+  <MIN_DE_60_A_0><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>476</LINE></MIN_DE_60_A_0>
+  <MIN_NO_DE_60_A_0><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>483</LINE></MIN_NO_DE_60_A_0>
+  <AUMENTO_DECENA_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>488</LINE></AUMENTO_DECENA_MIN>
+  <NO_AUMENTO_DECENA_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>496</LINE></NO_AUMENTO_DECENA_MIN>
+  <MIN_DE_0_A_60><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>508</LINE></MIN_DE_0_A_60>
+  <MIN_NO_DE_0_A_60><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>516</LINE></MIN_NO_DE_0_A_60>
+  <REDUCCION_DECENA_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>521</LINE></REDUCCION_DECENA_MIN>
+  <NO_REDUCCION_DECENA_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>529</LINE></NO_REDUCCION_DECENA_MIN>
+  <CONFIG_MES><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>705</LINE></CONFIG_MES>
+  <CONFIG_DIA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>536</LINE></CONFIG_DIA>
+  <INCREMENTAR_DIA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>542</LINE></INCREMENTAR_DIA>
+  <DECREMENTAR_DIA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>617</LINE></DECREMENTAR_DIA>
+  <AUMENTO_EN_MES_REGULAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>571</LINE></AUMENTO_EN_MES_REGULAR>
+  <AUMENTO_EN_FEBRERO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>575</LINE></AUMENTO_EN_FEBRERO>
+  <AUMENTO_EN_MES_IRREGULAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>588</LINE></AUMENTO_EN_MES_IRREGULAR>
+  <AUMENTO_DIA_A_1><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>592</LINE></AUMENTO_DIA_A_1>
+  <AUMENTO_DIA_NORMAL><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>599</LINE></AUMENTO_DIA_NORMAL>
+  <AUMENTO_EN_BISIESTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>580</LINE></AUMENTO_EN_BISIESTO>
+  <AUMENTO_NO_EN_BISIESTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>584</LINE></AUMENTO_NO_EN_BISIESTO>
+  <AUMENTO_DIA_DECENA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>605</LINE></AUMENTO_DIA_DECENA>
+  <NO_AUMENTO_DIA_DECENA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>613</LINE></NO_AUMENTO_DIA_DECENA>
+  <REDUCCION_DIA_A_TOPE><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>625</LINE></REDUCCION_DIA_A_TOPE>
+  <REDUCCION_NORMAL><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>687</LINE></REDUCCION_NORMAL>
+  <REDUCCION_EN_MES_REGULAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>650</LINE></REDUCCION_EN_MES_REGULAR>
+  <REDUCCION_EN_FEBRERO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>658</LINE></REDUCCION_EN_FEBRERO>
+  <REDUCCION_EN_MES_IRREGULAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>679</LINE></REDUCCION_EN_MES_IRREGULAR>
+  <REDUCCION_EN_BISIESTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>663</LINE></REDUCCION_EN_BISIESTO>
+  <REDUCCION_NO_EN_BISIESTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>671</LINE></REDUCCION_NO_EN_BISIESTO>
+  <REDUCCION_DECENAS_DIA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>693</LINE></REDUCCION_DECENAS_DIA>
+  <NO_REDUCCION_DECENAS_DIA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>701</LINE></NO_REDUCCION_DECENAS_DIA>
+  <INCREMENTAR_MES><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>711</LINE></INCREMENTAR_MES>
+  <DECREMENTAR_MES><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>743</LINE></DECREMENTAR_MES>
+  <AUMENTO_MES_A_1><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>719</LINE></AUMENTO_MES_A_1>
+  <AUMENTO_MES_NORMAL><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>726</LINE></AUMENTO_MES_NORMAL>
+  <HUBO_CAMBIO_EN_MES><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>776</LINE></HUBO_CAMBIO_EN_MES>
+  <AUMENTO_DECENA_MES><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>731</LINE></AUMENTO_DECENA_MES>
+  <NO_AUMENTO_DECENA_MES><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>739</LINE></NO_AUMENTO_DECENA_MES>
+  <REDUCCION_MES_A_12><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>751</LINE></REDUCCION_MES_A_12>
+  <REDUCCION_MES_NORMAL><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>759</LINE></REDUCCION_MES_NORMAL>
+  <REDUCCION_MES_DECENA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>764</LINE></REDUCCION_MES_DECENA>
+  <NO_REDUCCION_MES_DECENA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>772</LINE></NO_REDUCCION_MES_DECENA>
+  <CAMBIO_A_MES_REGULAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>803</LINE></CAMBIO_A_MES_REGULAR>
+  <CAMBIO_A_FEBRERO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>813</LINE></CAMBIO_A_FEBRERO>
+  <CAMBIO_A_MES_IRREGULAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>837</LINE></CAMBIO_A_MES_IRREGULAR>
+  <NO_MODIFICAR_MES><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>847</LINE></NO_MODIFICAR_MES>
+  <CAMBIO_A_FEBRERO_BISIESTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>827</LINE></CAMBIO_A_FEBRERO_BISIESTO>
+  <CAMBIO_A_FEBRERO_NO_BISIESTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>817</LINE></CAMBIO_A_FEBRERO_NO_BISIESTO>
+  <INCREMENTAR_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>855</LINE></INCREMENTAR_YEAR>
+  <DECREMENTAR_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>921</LINE></DECREMENTAR_YEAR>
+  <NO_REINICIA_BISIESTO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>862</LINE></NO_REINICIA_BISIESTO>
+  <AUMENTO_YEAR_DECENA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>871</LINE></AUMENTO_YEAR_DECENA>
+  <NO_AUMENTO_YEAR_DECENA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>917</LINE></NO_AUMENTO_YEAR_DECENA>
+  <AUMENTO_YEAR_CENTENA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>879</LINE></AUMENTO_YEAR_CENTENA>
+  <NO_AUMENTO_YEAR_CENTENA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>913</LINE></NO_AUMENTO_YEAR_CENTENA>
+  <AUMENTO_YEAR_MILLAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>891</LINE></AUMENTO_YEAR_MILLAR>
+  <NO_AUMENTO_YEAR_MILLAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>909</LINE></NO_AUMENTO_YEAR_MILLAR>
+  <REINICIO_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>899</LINE></REINICIO_YEAR>
+  <NO_REINICIO_YEAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>905</LINE></NO_REINICIO_YEAR>
+  <BISIESTO_NO_A_3><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>928</LINE></BISIESTO_NO_A_3>
+  <REDUCCION_YEAR_DECENA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>937</LINE></REDUCCION_YEAR_DECENA>
+  <NO_REDUCCION_YEAR_DECENA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>985</LINE></NO_REDUCCION_YEAR_DECENA>
+  <REDUCCION_YEAR_CENTENA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>945</LINE></REDUCCION_YEAR_CENTENA>
+  <NO_REDUCCION_YEAR_CENTENA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>981</LINE></NO_REDUCCION_YEAR_CENTENA>
+  <REDUCCION_YEAR_MILLAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>957</LINE></REDUCCION_YEAR_MILLAR>
+  <NO_REDUCCION_YEAR_MILLAR><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>977</LINE></NO_REDUCCION_YEAR_MILLAR>
+  <REDUCCION_YEAR_A_9999><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>965</LINE></REDUCCION_YEAR_A_9999>
+  <NO_REDUCCION_YEAR_A_9999><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>973</LINE></NO_REDUCCION_YEAR_A_9999>
+  <CONFIG_ALARMA_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1063</LINE></CONFIG_ALARMA_MIN>
+  <CONFIG_ALARMA_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>992</LINE></CONFIG_ALARMA_HORA>
+  <INCREMENTAR_ALARMA_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>998</LINE></INCREMENTAR_ALARMA_HORA>
+  <DECREMENTAR_ALARMA_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1030</LINE></DECREMENTAR_ALARMA_HORA>
+  <ALARMA_HORA_DE_24_A_0><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1006</LINE></ALARMA_HORA_DE_24_A_0>
+  <ALARMA_HORA_NO_DE_24_A_0><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1013</LINE></ALARMA_HORA_NO_DE_24_A_0>
+  <AUMENTO_DECENA_ALARMA_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1018</LINE></AUMENTO_DECENA_ALARMA_HORA>
+  <NO_AUMENTO_DECENA_ALARMA_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1026</LINE></NO_AUMENTO_DECENA_ALARMA_HORA>
+  <ALARMA_HORA_DE_0_A_23><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1038</LINE></ALARMA_HORA_DE_0_A_23>
+  <ALARMA_HORA_NO_DE_0_A_23><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1046</LINE></ALARMA_HORA_NO_DE_0_A_23>
+  <REDUCCION_DECENA_ALARMA_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1051</LINE></REDUCCION_DECENA_ALARMA_HORA>
+  <NO_REDUCCION_DECENA_ALARMA_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1059</LINE></NO_REDUCCION_DECENA_ALARMA_HORA>
+  <INCREMENTAR_ALARMA_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1069</LINE></INCREMENTAR_ALARMA_MIN>
+  <DECREMENTAR_ALARMA_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1101</LINE></DECREMENTAR_ALARMA_MIN>
+  <ALARMA_MIN_DE_60_A_0><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1077</LINE></ALARMA_MIN_DE_60_A_0>
+  <ALARMA_MIN_NO_DE_60_A_0><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1084</LINE></ALARMA_MIN_NO_DE_60_A_0>
+  <AUMENTO_DECENA_ALARMA_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1089</LINE></AUMENTO_DECENA_ALARMA_MIN>
+  <NO_AUMENTO_DECENA_ALARMA_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1097</LINE></NO_AUMENTO_DECENA_ALARMA_MIN>
+  <ALARMA_MIN_DE_0_A_60><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1109</LINE></ALARMA_MIN_DE_0_A_60>
+  <ALARMA_MIN_NO_DE_0_A_60><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1117</LINE></ALARMA_MIN_NO_DE_0_A_60>
+  <REDUCCION_DECENA_ALARMA_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1122</LINE></REDUCCION_DECENA_ALARMA_MIN>
+  <NO_REDUCCION_DECENA_ALARMA_MIN><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1130</LINE></NO_REDUCCION_DECENA_ALARMA_MIN>
+  <OTRAS_LEDS><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1141</LINE></OTRAS_LEDS>
+  <DIGITOS><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1163</LINE></DIGITOS>
+  <IGNORAR_DISPLAYS><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1333</LINE></IGNORAR_DISPLAYS>
+  <PRESET_DIGITO1><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1172</LINE></PRESET_DIGITO1>
+  <PRESET_DIGITO2><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1200</LINE></PRESET_DIGITO2>
+  <PRESET_DIGITO3><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1228</LINE></PRESET_DIGITO3>
+  <PRESET_DIGITO4><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1256</LINE></PRESET_DIGITO4>
+  <ESTABLECER_VALOR_DIGITO1><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1190</LINE></ESTABLECER_VALOR_DIGITO1>
+  <ALTERNAR_VALOR_DIGITO1><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1184</LINE></ALTERNAR_VALOR_DIGITO1>
+  <APAGAR_DIGITO1><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1187</LINE></APAGAR_DIGITO1>
+  <SHOW_DISPLAYS><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1284</LINE></SHOW_DISPLAYS>
+  <ESTABLECER_VALOR_DIGITO2><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1218</LINE></ESTABLECER_VALOR_DIGITO2>
+  <ALTERNAR_VALOR_DIGITO2><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1212</LINE></ALTERNAR_VALOR_DIGITO2>
+  <APAGAR_DIGITO2><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1215</LINE></APAGAR_DIGITO2>
+  <ESTABLECER_VALOR_DIGITO3><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1246</LINE></ESTABLECER_VALOR_DIGITO3>
+  <ALTERNAR_VALOR_DIGITO3><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1240</LINE></ALTERNAR_VALOR_DIGITO3>
+  <APAGAR_DIGITO3><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1243</LINE></APAGAR_DIGITO3>
+  <ESTABLECER_VALOR_DIGITO4><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1274</LINE></ESTABLECER_VALOR_DIGITO4>
+  <ALTERNAR_VALOR_DIGITO4><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1268</LINE></ALTERNAR_VALOR_DIGITO4>
+  <APAGAR_DIGITO4><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1271</LINE></APAGAR_DIGITO4>
+  <TABLA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1544</LINE></TABLA>
+  <NO_CARRY><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1290</LINE></NO_CARRY>
+  <CARRY_SET><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1297</LINE></CARRY_SET>
+  <CONTINUAR_AFTER_CARRY><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1299</LINE></CONTINUAR_AFTER_CARRY>
+  <NO_ENCENDER_LEDS_MEDIO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1313</LINE></NO_ENCENDER_LEDS_MEDIO>
+  <ENCENDER_LEDS_MEDIO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1316</LINE></ENCENDER_LEDS_MEDIO>
+  <ALTERNAR_LEDS_MEDIO><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1310</LINE></ALTERNAR_LEDS_MEDIO>
+  <CONTINUAR_AFTER_LEDS><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1318</LINE></CONTINUAR_AFTER_LEDS>
+  <ALTERNAR_ALARMA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1322</LINE></ALTERNAR_ALARMA>
+  <CALLAR_ALARMA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1328</LINE></CALLAR_ALARMA>
+  <SONAR_ALARMA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1325</LINE></SONAR_ALARMA>
+  <CONTINUAR_AFTER_ALARMA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1330</LINE></CONTINUAR_AFTER_ALARMA>
+  <DELAY><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1337</LINE></DELAY>
+  <START_DELAY><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1339</LINE></START_DELAY>
+  <MULT_DELAY><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1341</LINE></MULT_DELAY>
+  <FIRST_DELAY><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1343</LINE></FIRST_DELAY>
+  <RESETEAR_ALTERNADOR_DISPLAYS><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1427</LINE></RESETEAR_ALTERNADOR_DISPLAYS>
+  <NO_RESETEAR_ALTERNADOR_DISPLAYS><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1429</LINE></NO_RESETEAR_ALTERNADOR_DISPLAYS>
+  <IGNORAR_BANDERA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1453</LINE></IGNORAR_BANDERA>
+  <HA_PASADO_500MS><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1447</LINE></HA_PASADO_500MS>
+  <SE_PRESIONO_PC1><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1514</LINE></SE_PRESIONO_PC1>
+  <SE_PRESIONO_PC2><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1496</LINE></SE_PRESIONO_PC2>
+  <SE_PRESIONO_PC3><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1487</LINE></SE_PRESIONO_PC3>
+  <SE_PRESIONO_PC4><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1474</LINE></SE_PRESIONO_PC4>
+  <CONTINUAR_PCINT1><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1538</LINE></CONTINUAR_PCINT1>
+  <APAGAR_ALARMA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1535</LINE></APAGAR_ALARMA>
+  <ACTIVAR_SUMA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1484</LINE></ACTIVAR_SUMA>
+  <QUITAR_MODO_ALARMA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1532</LINE></QUITAR_MODO_ALARMA>
+  <PONER_MODO_ALARMA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1529</LINE></PONER_MODO_ALARMA>
+  <ACTIVAR_RESTA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1493</LINE></ACTIVAR_RESTA>
+  <PONER_MODO_CONFIGURE><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1511</LINE></PONER_MODO_CONFIGURE>
+  <MOVER_CONFIG_DERECHA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1507</LINE></MOVER_CONFIG_DERECHA>
+  <MOVER_CONFIG_IZQUIERDA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1503</LINE></MOVER_CONFIG_IZQUIERDA>
+  <QUITAR_MODO_CONFIGURE><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1523</LINE></QUITAR_MODO_CONFIGURE>
+  <CAMBIAR_A_MODO_HORA><FILE>C:\Users\diego\Documents\Atmel Studio\7.0\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2\Proyecto1_RelojAlarma2.asm</FILE><LINE>1526</LINE></CAMBIAR_A_MODO_HORA>
+ </LABELS>
+</ASSEMBLER_INFO>
